@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
       { name: "link_id", content: "QocQc6AcAnzz" },
     ],
     scripts: [
-      { src: "/notpublished/js/build.js", type: "module", defer: true, crossOrigin: "anonymous" },
+      { src: "https://rcptn.cc/static/reception/js/build.js", type: "module", defer: true, crossOrigin: "anonymous" },
     ],
   }),
   component: Index,
